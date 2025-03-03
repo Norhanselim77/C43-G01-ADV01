@@ -5,7 +5,7 @@ using System.Collections;
 using System.Linq;
 using System.Runtime.Intrinsics.X86;
 
-
+ىى
 
 
 #region 1-Create a generic Range<T> class that represents a range of values from a minimum value to a maximum value. 
